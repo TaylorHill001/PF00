@@ -1,0 +1,11 @@
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.exe
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.deps.json
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.runtimeconfig.json
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.runtimeconfig.dev.json
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.dll
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.0\BinaryTriangle.pdb
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.0\BinaryTriangle.csprojAssemblyReference.cache
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.0\BinaryTriangle.AssemblyInfoInputs.cache
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.0\BinaryTriangle.AssemblyInfo.cs
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.0\BinaryTriangle.dll
+C:\Users\Taylo\source\repos\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.0\BinaryTriangle.pdb
