@@ -1,0 +1,11 @@
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.exe
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.deps.json
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.runtimeconfig.json
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.runtimeconfig.dev.json
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.dll
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp3.0\BinaryToDecimal.pdb
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp3.0\BinaryToDecimal.csprojAssemblyReference.cache
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp3.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp3.0\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp3.0\BinaryToDecimal.dll
+C:\Users\Taylo\source\repos\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp3.0\BinaryToDecimal.pdb
