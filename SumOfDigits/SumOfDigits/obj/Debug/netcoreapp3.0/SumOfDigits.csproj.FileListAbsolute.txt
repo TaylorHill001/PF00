@@ -1,0 +1,11 @@
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.exe
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.deps.json
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.runtimeconfig.json
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.runtimeconfig.dev.json
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.dll
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.0\SumOfDigits.pdb
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.0\SumOfDigits.csprojAssemblyReference.cache
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.0\SumOfDigits.AssemblyInfo.cs
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.0\SumOfDigits.dll
+C:\Users\Taylo\source\repos\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.0\SumOfDigits.pdb

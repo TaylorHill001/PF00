@@ -1,0 +1,3 @@
+C:\Users\Taylo\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.0\ReverseString.csprojAssemblyReference.cache
+C:\Users\Taylo\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Taylo\source\repos\ReverseString\ReverseString\obj\Debug\netcoreapp3.0\ReverseString.AssemblyInfo.cs
