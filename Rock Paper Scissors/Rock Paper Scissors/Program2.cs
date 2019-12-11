@@ -10,7 +10,7 @@ namespace Rock_Paper_Scissors
     {
         static void Main(string[] args)
         {
-
+            //establish var's
             string inputUser, inputCPU;
 
             int randomInt;
@@ -18,36 +18,36 @@ namespace Rock_Paper_Scissors
             bool playAgain = true;
 
 
-
+            //Welcome and receive a name for the player
             Console.WriteLine("Hey user, whats your name?");
             string userName = Console.ReadLine();
-
+            // this if loop initiates the game
             if (playAgain == false){
                 Console.WriteLine("its false");
             }
-
+            //this while loop continues the game
             while (playAgain == true)
             {
                 int userScore = 0;
                 int cpuScore = 0;
                 
 
-
+                // this while loop ends the game when one reaches a score of three
                 while (userScore < 3 && cpuScore < 3)
                 {
 
 
-
+                    //here we have the player initate a round
                     Console.WriteLine(userName + " choose Rock, Paper, or Scissors");
                     inputUser = Console.ReadLine().ToLower();
 
-
+                    //we use rnd to have the pc choose a num
                     Random rnd = new Random();
 
                     randomInt = rnd.Next(1, 4);
 
 
-
+                    //we use switch to assign the rnd num to rock paper scisors and to determin who wins
                     switch (randomInt)
                     {
                         case 1:
@@ -129,7 +129,7 @@ namespace Rock_Paper_Scissors
                     }
                     else if (cpuScore == 3)
                     {
-                        Console.WriteLine("CPU beat yo dirty ass!");
+                        Console.WriteLine("CPU beat you!");
                     }
                     else
                     {
