@@ -125,7 +125,7 @@ namespace Rock_Paper_Scissors
                     }
                     else if (cpuScore == 3)
                     {
-                        Console.WriteLine("CPU beat yo dirty ass!");
+                        Console.WriteLine("CPU beat you!");
                     }
                     else
                     {
